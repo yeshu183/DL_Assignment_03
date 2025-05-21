@@ -55,6 +55,8 @@ jupyter notebook
    - Download the HTML files generated in the `attention_connectivity_visualizations` directory
    - Open the HTML files in a web browser to view the interactive attention visualizations
    - Alternatively, open the `index.html` file which provides links to all visualizations
+4. Hindi font for matplotlib:
+   - download `NotoSansDevanagari-VariableFont_wdth,wght.ttf` file and use FontManager from matplotlib for hindi letters visualization.
 
 ## Attention Visualization
 
