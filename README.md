@@ -7,8 +7,8 @@ This repository contains the implementation of a sequence-to-sequence model for 
 ## Repository Structure
 
 The repository contains two main notebooks:
-1. `dl-assign-03-v.ipynb`: Implements Questions 1-4, covering basic sequence-to-sequence models
-2. `attention_model.ipynb`: Implements Questions 5-6, covering attention mechanisms and visualizations
+1. `dl-assign-03-part_a.ipynb`: Implements Questions 1-4, covering basic sequence-to-sequence models
+2. `dl_03_attention.ipynb`: Implements Questions 5-6, covering attention mechanisms and visualizations
 
 ## Requirements
 
